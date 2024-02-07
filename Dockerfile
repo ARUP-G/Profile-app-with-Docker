@@ -14,5 +14,5 @@ WORKDIR /home/app
 RUN npm install
 
 # no need for /home/app/server.js because of WORKDIR
-CMD ["node", "/home/app/server.js"]
+CMD ["node", "server.js"]
 
