@@ -7,6 +7,8 @@ This demo app shows a simple user profile app set up using
 
 All components are docker-based
 
+![Structure](images/Profile-app.png)
+
 ### With Docker
 
 #### To start the application
